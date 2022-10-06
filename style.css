@@ -1,4 +1,12 @@
-<!---header start--->
+body {
+	margin: 0;
+	clear: both;
+	display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* header start */
 .header {
   position: absolute;
   left: 0px;
@@ -30,7 +38,7 @@
   height: 100px;
   z-index: 28;
 }
-._7__343__252_52_52__7__343__252_52_52 {
+.numbers {
   font-size: 31px;
   font-family: "OpenSans";
   color: rgb(118, 118, 118);
@@ -43,8 +51,8 @@
   height: 73px;
   z-index: 27;
 }
-.Слой_1 {
-  background-image: url("Слой 1.png");
+.picture_1 {
+  background: repeat-y url("Слой 1.png");
   position: absolute;
   left: 0px;
   top: 0px;
@@ -53,11 +61,9 @@
   z-index: 26;
 }
 
-<!---header end--->
+/* header end */
 
-
-
-<!---menu start--->
+/* menu start */
 
 .menu {
   position: absolute;
@@ -67,15 +73,7 @@
   height: 1684px;
   z-index: 24;
 }
-.hand_96302_640 {
-  background-image: url("hand-96302_640.png");
-  position: absolute;
-  left: 737px;
-  top: 228px;
-  width: 25px;
-  height: 33px;
-  z-index: 23;
-}
+
 .Главная_____Каталог_____Доставка_и_оплата____Пр {
   font-size: 18px;
   font-family: "OpenSans";
@@ -99,11 +97,9 @@
   z-index: 21;
 }
 
-<!---menu end--->
+/* menu end */
 
-
-
-<!---content start--->
+/* content start */
 
 .content {
   position: absolute;
@@ -203,11 +199,9 @@
   z-index: 12;
 }
 
-<!---content end--->
+/* content end */
 
-
-
-<!---slider start--->
+/* slider start */
 
 .slider {
   position: absolute;
@@ -227,11 +221,9 @@
   z-index: 9;
 }
 
-<!---slider end--->
+/* slider end */
 
-
-
-<!---footer start--->
+/* footer start */
 
 .footer {
   position: absolute;
@@ -292,4 +284,4 @@
   z-index: 3;
 }
 
-<!---footer end--->
+/* footer end */
