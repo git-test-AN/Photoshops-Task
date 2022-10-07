@@ -69,19 +69,20 @@ table {
 
 .Распродажа_до_15_02_16_ {
   font-size: 17px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(119, 119, 119);
   line-height: 1.294;
   text-align: left;
   position: absolute;
-  left: 616.938px;
-  top: 91.709px;
+  left: 617px;
+  top: 92px;
   width: 208px;
   height: 16px;
   z-index: 29;
 }
 .Фигура_1 {
   position: absolute;
+  padding-left: 10px;
   left: 210px;
   top: 45px;
   z-index: 28;
@@ -92,10 +93,11 @@ img {
 }
 .numbers {
   font-size: 31px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(118, 118, 118);
+  padding-right: 10px;
   line-height: 1.484;
-  text-align: right;
+  text-align: left;
   position: absolute;
   left: 902px;
   top: 58px;
@@ -135,7 +137,7 @@ a:hover {
 }
 .Главная {
   font-size: 18px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
   line-height: 1.2;
   text-align: center;
@@ -170,7 +172,7 @@ a:hover {
 }
 .Строим_комплексный_маркетинг {
   font-size: 14px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(118, 118, 118);
   line-height: 1.571;
   text-align: left;
@@ -183,7 +185,7 @@ a:hover {
 }
 .Только_товары_для_дома {
   font-size: 14px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(118, 118, 118);
   line-height: 1.571;
   text-align: left;
@@ -196,7 +198,7 @@ a:hover {
 }
 .Чем_мы_занимаемся_ {
   font-size: 24px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(118, 118, 118);
   line-height: 0.917;
   text-align: left;
@@ -207,7 +209,7 @@ a:hover {
 }
 .Компания_«Шнайдер_Консалт» {
   font-size: 14px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(118, 118, 118);
   line-height: 22px;
   text-align: left;
@@ -223,7 +225,7 @@ h2 {
 }
 ._14_сентября_2015_г__Акция_на_входные_двери_Фаль {
   font-size: 14px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
   line-height: 1.571;
   text-align: left;
@@ -239,7 +241,7 @@ h2 {
 }
 .Новости {
   font-size: 40px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
   font-weight: bold;
   line-height: 1.15;
@@ -297,40 +299,41 @@ h2 {
 }
 .Разработка_сайта {
   font-size: 14px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
   line-height: 1.571;
   text-align: left;
   position: absolute;
   left: 971px;
-  top: 1534.284px;
+  top: 1535px;
   width: 217px;
   height: 36px;
   z-index: 6;
 }
 .Главная_Каталог {
   font-size: 14px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
   text-decoration: underline;
   line-height: 1.857;
   text-align: left;
   position: absolute;
   left: 560px;
-  top: 1539.25px;
+  top: 1535px;
   width: 132px;
   height: 117px;
   z-index: 5;
 }
 .©_2012–2016 {
   font-size: 14px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
   line-height: 1.571;
   text-align: left;
   position: absolute;
-  left: 209.937px;
-  top: 1535.25px;
+  left: 210px;
+  padding-left: 10px;
+  top: 1535px;
   width: 213px;
   height: 33px;
   z-index: 4;
