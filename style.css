@@ -11,8 +11,8 @@ body {
   position: absolute;
   left: 0px;
   top: 0px;
-  width: 1400px;
-  height: 1684px;
+  width: 1396px;
+  height: 199px;
   z-index: 30;
 }
 
@@ -51,7 +51,7 @@ body {
   height: 73px;
   z-index: 27;
 }
-.picture_1 {
+.Слой_1 {
   background: repeat-y url("Слой 1.png");
   position: absolute;
   left: 0px;
@@ -70,11 +70,11 @@ body {
   left: 0px;
   top: 0px;
   width: 1400px;
-  height: 1684px;
+  height: 58px;
   z-index: 24;
 }
 
-.Главная_____Каталог_____Доставка_и_оплата____Пр {
+.Главная {
   font-size: 18px;
   font-family: "OpenSans";
   color: rgb(255, 255, 255);
@@ -109,11 +109,10 @@ body {
   height: 1684px;
   z-index: 19;
 }
-.Строим_комплексный_маркетинг_и_продажи___Мы_не_ {
+.Строим_комплексный_маркетинг {
   font-size: 14px;
   font-family: "OpenSans";
   color: rgb(118, 118, 118);
-  font-weight: bold;
   line-height: 1.571;
   text-align: left;
   position: absolute;
@@ -123,11 +122,10 @@ body {
   height: 190px;
   z-index: 18;
 }
-.Только_товары_для_дома__строительства_и_ремонта {
+.Только_товары_для_дома {
   font-size: 14px;
   font-family: "OpenSans";
   color: rgb(118, 118, 118);
-  font-weight: bold;
   line-height: 1.571;
   text-align: left;
   position: absolute;
@@ -148,11 +146,11 @@ body {
   top: 986.496px;
   z-index: 16;
 }
-.Компания_«Шнайдер_Консалт»__Мы_эксперты_в_запус {
-  font-size: 33px;
+.Компания_«Шнайдер_Консалт» {
+  font-size: 14 px;
   font-family: "OpenSans";
   color: rgb(118, 118, 118);
-  line-height: 0.667;
+  line-height: 22 px;
   text-align: left;
   position: absolute;
   left: 618.937px;
@@ -160,6 +158,9 @@ body {
   width: 566px;
   height: 223px;
   z-index: 15;
+}
+h2 {
+  font-size: 33 px;
 }
 ._14_сентября_2015_г__Акция_на_входные_двери_Фаль {
   font-size: 14px;
@@ -174,6 +175,9 @@ body {
   width: 264px;
   height: 439px;
   z-index: 14;
+}
+.under {
+  text-align: right;
 }
 .Новости {
   font-size: 40px;
@@ -207,8 +211,8 @@ body {
   position: absolute;
   left: 0px;
   top: 0px;
-  width: 1400px;
-  height: 1684px;
+  width: 1399px;
+  height: 400px;
   z-index: 10;
 }
 .Слой_10 {
@@ -230,14 +234,13 @@ body {
   left: 0px;
   top: 0px;
   width: 1400px;
-  height: 1684px;
+  height: 220px;
   z-index: 7;
 }
-.Разработка_сайта_—__компания_«Шнайдер_Консалт» {
+.Разработка_сайта {
   font-size: 14px;
   font-family: "OpenSans";
   color: rgb(255, 255, 255);
-  text-decoration: underline;
   line-height: 1.571;
   text-align: left;
   position: absolute;
@@ -247,7 +250,7 @@ body {
   height: 36px;
   z-index: 6;
 }
-.Главная_Каталог_Доставка_и_оплата_Прайс_лист_Ко {
+.Главная_Каталог {
   font-size: 14px;
   font-family: "OpenSans";
   color: rgb(255, 255, 255);
@@ -261,7 +264,7 @@ body {
   height: 117px;
   z-index: 5;
 }
-.©_2012–2016_ЗАО_«Компания»__info_name_ru {
+.©_2012–2016 {
   font-size: 14px;
   font-family: "OpenSans";
   color: rgb(255, 255, 255);
