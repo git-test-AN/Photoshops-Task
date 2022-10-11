@@ -72,7 +72,7 @@ div {
   z-index: 30;
 }
 
-.Распродажа_до_15_02_16_ {
+.sell-out {
   font-size: 17px;
   font-family: 'Open Sans', sans-serif;
   color: rgb(119, 119, 119);
@@ -85,7 +85,7 @@ div {
   height: 16px;
   z-index: 29;
 }
-.Фигура_1 {
+.logo {
   position: absolute;
   padding-left: 10px;
   left: 210px;
@@ -98,7 +98,7 @@ img {
   width: 318px;
   height: 100px;
 }
-.numbers {
+.phones {
   font-size: 31px;
   font-family: 'Open Sans', sans-serif;
   color: rgb(118, 118, 118);
@@ -113,7 +113,7 @@ img {
   z-index: 27;
   font-weight: bold;
 }
-.Слой_1 {
+.layer1 {
   background: repeat-y url("Слой 1.png");
   position: absolute;
   left: 0px;
@@ -145,7 +145,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
-.Главная {
+.main {
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
@@ -158,7 +158,7 @@ a:hover {
   height: 18px;
   z-index: 22;
 }
-.Слой_3 {
+.layer3 {
   background-image: url("Слой 3.png");
   position: absolute;
   left: 0px;
@@ -182,7 +182,7 @@ a:hover {
   height: 400px;
   z-index: 10;
 }
-.Слой_10 {
+.layer10 {
   background-image: url("Слой 10.png");
   position: absolute;
   display: flex;
@@ -207,49 +207,7 @@ a:hover {
   height: 807px;
   z-index: 19;
 }
-.Строим_комплексный_маркетинг {
-  font-size: 14px;
-  font-family: 'Open Sans', sans-serif;
-  color: rgb(118, 118, 118);
-  line-height: 1.571;
-  text-align: left;
-  position: absolute;
-  left: 919.72px;
-  top: 1068.284px;
-  width: 235px;
-  height: 190px;
-  z-index: 18;
-}
-.Только_товары_для_дома {
-  font-size: 14px;
-  font-family: 'Open Sans', sans-serif;
-  color: rgb(118, 118, 118);
-  line-height: 1.571;
-  text-align: left;
-  position: absolute;
-  left: 618.795px;
-  top: 1069.25px;
-  width: 255px;
-  height: 208px;
-  z-index: 17;
-}
-.bold {
-  font-weight: bold;
-}
-.Чем_мы_занимаемся_ {
-  font-size: 24px;
-  font-family: 'Open Sans', sans-serif;
-  color: rgb(118, 118, 118);
-  line-height: 0.917;
-  text-align: left;
-  position: absolute;
-  left: 615.937px;
-  top: 986.496px;
-  width: 566px;
-  height: 223px;
-  z-index: 16;
-}
-.Компания_«Шнайдер_Консалт» {
+.company {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   color: rgb(118, 118, 118);
@@ -262,10 +220,66 @@ a:hover {
   height: 223px;
   z-index: 15;
 }
+.what_we_do {
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(118, 118, 118);
+  line-height: 0.917;
+  text-align: left;
+  position: absolute;
+  left: 615.937px;
+  top: 986.496px;
+  width: 566px;
+  height: 223px;
+  z-index: 16;
+}
 h2 {
   font-size: 33px;
 }
-._14_сентября_2015_г__Акция_на_входные_двери_Фаль {
+.only_goods {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(118, 118, 118);
+  line-height: 1.571;
+  text-align: left;
+  position: absolute;
+  left: 618.795px;
+  top: 1069.25px;
+  width: 255px;
+  height: 208px;
+  z-index: 17;
+}
+.build_marketing {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(118, 118, 118);
+  line-height: 1.571;
+  text-align: left;
+  position: absolute;
+  left: 919.72px;
+  top: 1068.284px;
+  width: 235px;
+  height: 190px;
+  z-index: 18;
+}
+.bold {
+  font-weight: bold;
+}
+.news {
+  font-size: 40px;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.15;
+  text-align: left;
+  position: absolute;
+  left: 242.844px;
+  top: 731px;
+  width: 147px;
+  height: 28px;
+  z-index: 13;
+}
+.feed {
   font-size: 14px;
   font-family: 'OpenSansLight', sans-serif;
   color: rgb(255, 255, 255);
@@ -287,21 +301,7 @@ h2 {
   left: 180px;
   z-index: 14;
 }
-.Новости {
-  font-size: 40px;
-  font-family: 'Open Sans', sans-serif;
-  color: rgb(255, 255, 255);
-  font-weight: bold;
-  line-height: 1.15;
-  text-align: left;
-  position: absolute;
-  left: 242.844px;
-  top: 731px;
-  width: 147px;
-  height: 28px;
-  z-index: 13;
-}
-.Слой_9 {
+.layer9 {
   background-image: url("Слой 9.png");
   position: absolute;
   left: 210px;
@@ -323,7 +323,7 @@ h2 {
   height: 220px;
   z-index: 7;
 }
-.Разработка_сайта {
+.site-development {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
@@ -336,7 +336,7 @@ h2 {
   height: 36px;
   z-index: 6;
 }
-.Главная_Каталог {
+.footer-menu {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
@@ -350,10 +350,10 @@ h2 {
   height: 117px;
   z-index: 5;
 }
-.footer-menu {
+.footer-menu-list {
   list-style-type: none;
 }
-.©_2012–2016 {
+.copyright {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   color: rgb(255, 255, 255);
@@ -367,7 +367,7 @@ h2 {
   height: 33px;
   z-index: 4;
 }
-.Слой_2 {
+.layer2 {
   background-image: url("Слой 2.png");
   position: absolute;
   left: 0px;
